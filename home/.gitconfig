@@ -37,7 +37,8 @@
 	tool = meld
 	conflictstyle = diff3
 [user]
-	name = Carl Fürstenberg
+	name = Felix Ruponen
+	email = felix.ruponen@purplescout.se
 [apply]
 	whitespace = fix
 [tar "tar.xz"]
